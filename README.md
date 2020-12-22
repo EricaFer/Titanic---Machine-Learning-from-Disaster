@@ -4,7 +4,7 @@
 
 TO DO:
 * ~Import Data~
-* ~Enconde Data~
+* ~Encode Data~
 * Visualize Data
 * Fit Data
 * Score Data
