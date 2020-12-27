@@ -3,10 +3,10 @@
 
 
 TO DO:
-* ~Import Data~
-* ~Encode Data~
-* Visualize Data
-* Fit Data
-* Score Data
-* Tuning Hyperparameters
-* Model Evaluation
+- [x] Import Data
+- [x] Encode Data
+- [x] Visualize Data
+- [ ] Fit Data
+- [ ] Score Data
+- [ ] Tuning Hyperparameters
+- [ ] Model Evaluation
