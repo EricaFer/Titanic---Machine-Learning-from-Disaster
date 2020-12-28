@@ -6,7 +6,7 @@ TO DO:
 - [x] Import Data
 - [x] Encode Data
 - [x] Visualize Data
-- [ ] Fit Data
-- [ ] Score Data
-- [ ] Tuning Hyperparameters
+- [x] Fit Data
+- [x] Score Data
+- [x] Tuning Hyperparameters
 - [ ] Model Evaluation
