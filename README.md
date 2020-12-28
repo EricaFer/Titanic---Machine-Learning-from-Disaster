@@ -10,3 +10,4 @@ TO DO:
 - [x] Score Data
 - [x] Tuning Hyperparameters
 - [ ] Model Evaluation
+- [ ] Formatting
