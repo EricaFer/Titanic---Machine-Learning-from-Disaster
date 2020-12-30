@@ -9,5 +9,5 @@ TO DO:
 - [x] Fit Data
 - [x] Score Data
 - [x] Tuning Hyperparameters
-- [ ] Model Evaluation
-- [ ] Formatting
+- [x] Model Evaluation
+- [x] Formatting
